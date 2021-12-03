@@ -1,0 +1,24 @@
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Utilerias\bin\Debug\net5.0\CSI.Utilerias.deps.json
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Utilerias\bin\Debug\net5.0\CSI.Utilerias.dll
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Utilerias\bin\Debug\net5.0\ref\CSI.Utilerias.dll
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Utilerias\bin\Debug\net5.0\CSI.Utilerias.pdb
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Utilerias\obj\Debug\net5.0\CSI.Utilerias.csprojAssemblyReference.cache
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Utilerias\obj\Debug\net5.0\CSI.Utilerias.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Utilerias\obj\Debug\net5.0\CSI.Utilerias.AssemblyInfoInputs.cache
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Utilerias\obj\Debug\net5.0\CSI.Utilerias.AssemblyInfo.cs
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Utilerias\obj\Debug\net5.0\CSI.Utilerias.csproj.CoreCompileInputs.cache
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Utilerias\obj\Debug\net5.0\CSI.Utilerias.dll
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Utilerias\obj\Debug\net5.0\ref\CSI.Utilerias.dll
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Utilerias\obj\Debug\net5.0\CSI.Utilerias.pdb
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\bin\Debug\net5.0\CSI.Utilerias.deps.json
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\bin\Debug\net5.0\CSI.Utilerias.dll
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\bin\Debug\net5.0\ref\CSI.Utilerias.dll
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\bin\Debug\net5.0\CSI.Utilerias.pdb
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\obj\Debug\net5.0\CSI.Utilerias.csprojAssemblyReference.cache
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\obj\Debug\net5.0\CSI.Utilerias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\obj\Debug\net5.0\CSI.Utilerias.AssemblyInfoInputs.cache
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\obj\Debug\net5.0\CSI.Utilerias.AssemblyInfo.cs
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\obj\Debug\net5.0\CSI.Utilerias.csproj.CoreCompileInputs.cache
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\obj\Debug\net5.0\CSI.Utilerias.dll
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\obj\Debug\net5.0\ref\CSI.Utilerias.dll
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\obj\Debug\net5.0\CSI.Utilerias.pdb

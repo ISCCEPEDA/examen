@@ -1,0 +1,10 @@
+
+<p-menubar [model]="items">
+    <ng-template pTemplate="start">
+        <img src="../../../../favicon.ico" height="40" class="mr-3">
+    </ng-template> 
+    <ng-template pTemplate="end">
+        <i class="pi pi-shopping-cart mr-4 text-secondary" pBadge style="font-size: 2rem" [value]="contador.toString()"></i>
+    </ng-template>
+</p-menubar>
+<p></p>

@@ -1,0 +1,17 @@
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Business\bin\Release\net5.0\CSI.Business.deps.json
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Business\bin\Release\net5.0\CSI.Business.dll
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Business\bin\Release\net5.0\ref\CSI.Business.dll
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Business\bin\Release\net5.0\CSI.Business.pdb
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Business\bin\Release\net5.0\CSI.DataAccess.dll
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Business\bin\Release\net5.0\CSI.Models.dll
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Business\bin\Release\net5.0\CSI.DataAccess.pdb
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Business\bin\Release\net5.0\CSI.Models.pdb
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Business\obj\Release\net5.0\CSI.Business.csprojAssemblyReference.cache
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Business\obj\Release\net5.0\CSI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Business\obj\Release\net5.0\CSI.Business.AssemblyInfoInputs.cache
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Business\obj\Release\net5.0\CSI.Business.AssemblyInfo.cs
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Business\obj\Release\net5.0\CSI.Business.csproj.CoreCompileInputs.cache
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Business\obj\Release\net5.0\CSI.Business.csproj.CopyComplete
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Business\obj\Release\net5.0\CSI.Business.dll
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Business\obj\Release\net5.0\ref\CSI.Business.dll
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Business\obj\Release\net5.0\CSI.Business.pdb

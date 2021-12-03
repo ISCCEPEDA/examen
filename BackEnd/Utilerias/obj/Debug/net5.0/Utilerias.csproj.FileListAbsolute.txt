@@ -1,0 +1,24 @@
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\bin\Debug\net5.0\Utilerias.deps.json
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\bin\Debug\net5.0\Utilerias.dll
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\bin\Debug\net5.0\ref\Utilerias.dll
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\bin\Debug\net5.0\Utilerias.pdb
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\obj\Debug\net5.0\Utilerias.csprojAssemblyReference.cache
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\obj\Debug\net5.0\Utilerias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\obj\Debug\net5.0\Utilerias.AssemblyInfoInputs.cache
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\obj\Debug\net5.0\Utilerias.AssemblyInfo.cs
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\obj\Debug\net5.0\Utilerias.csproj.CoreCompileInputs.cache
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\obj\Debug\net5.0\Utilerias.dll
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\obj\Debug\net5.0\ref\Utilerias.dll
+C:\Users\BETO\Documents\ALBERT\grupo csi\Grupo csi\Solucion WEB API\BackEnd\CSI.Utilerias\obj\Debug\net5.0\Utilerias.pdb
+C:\Users\BETO\Documents\ALBERT\Examen Jorge Cepeda\BackEnd\Utilerias\bin\Debug\net5.0\Utilerias.deps.json
+C:\Users\BETO\Documents\ALBERT\Examen Jorge Cepeda\BackEnd\Utilerias\bin\Debug\net5.0\Utilerias.dll
+C:\Users\BETO\Documents\ALBERT\Examen Jorge Cepeda\BackEnd\Utilerias\bin\Debug\net5.0\ref\Utilerias.dll
+C:\Users\BETO\Documents\ALBERT\Examen Jorge Cepeda\BackEnd\Utilerias\bin\Debug\net5.0\Utilerias.pdb
+C:\Users\BETO\Documents\ALBERT\Examen Jorge Cepeda\BackEnd\Utilerias\obj\Debug\net5.0\Utilerias.csprojAssemblyReference.cache
+C:\Users\BETO\Documents\ALBERT\Examen Jorge Cepeda\BackEnd\Utilerias\obj\Debug\net5.0\Utilerias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BETO\Documents\ALBERT\Examen Jorge Cepeda\BackEnd\Utilerias\obj\Debug\net5.0\Utilerias.AssemblyInfoInputs.cache
+C:\Users\BETO\Documents\ALBERT\Examen Jorge Cepeda\BackEnd\Utilerias\obj\Debug\net5.0\Utilerias.AssemblyInfo.cs
+C:\Users\BETO\Documents\ALBERT\Examen Jorge Cepeda\BackEnd\Utilerias\obj\Debug\net5.0\Utilerias.csproj.CoreCompileInputs.cache
+C:\Users\BETO\Documents\ALBERT\Examen Jorge Cepeda\BackEnd\Utilerias\obj\Debug\net5.0\Utilerias.dll
+C:\Users\BETO\Documents\ALBERT\Examen Jorge Cepeda\BackEnd\Utilerias\obj\Debug\net5.0\ref\Utilerias.dll
+C:\Users\BETO\Documents\ALBERT\Examen Jorge Cepeda\BackEnd\Utilerias\obj\Debug\net5.0\Utilerias.pdb

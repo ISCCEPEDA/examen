@@ -1,0 +1,12 @@
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Models\bin\Release\net5.0\CSI.Models.deps.json
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Models\bin\Release\net5.0\CSI.Models.dll
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Models\bin\Release\net5.0\ref\CSI.Models.dll
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Models\bin\Release\net5.0\CSI.Models.pdb
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Models\obj\Release\net5.0\CSI.Models.csprojAssemblyReference.cache
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Models\obj\Release\net5.0\CSI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Models\obj\Release\net5.0\CSI.Models.AssemblyInfoInputs.cache
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Models\obj\Release\net5.0\CSI.Models.AssemblyInfo.cs
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Models\obj\Release\net5.0\CSI.Models.csproj.CoreCompileInputs.cache
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Models\obj\Release\net5.0\CSI.Models.dll
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Models\obj\Release\net5.0\ref\CSI.Models.dll
+C:\NetProjects\ServicioRescatesInternet\WebApiRescatesInternet\CSI.Models\obj\Release\net5.0\CSI.Models.pdb
